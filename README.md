@@ -7,5 +7,5 @@ By analyzing the process of the ADPCM codec algorithm, especially when the origi
 
 Results
 --------
-Here is the figure of the time domain waveform comparison before and after the audio encoded and decoded.
+Here is the figure of the time domain waveform comparison before and after the audio encoded and decoded. <br>
 ![](https://github.com/Qiushi Yang/ADPCM/raw/master/ADPCM Figure.jpg)  
